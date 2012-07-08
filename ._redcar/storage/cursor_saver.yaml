@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: config.ru
+    :cursor_offset: 168
+    :timestamp: 2012-06-17 01:21:37.671000 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 586
+    :timestamp: 2012-06-17 02:14:12.328000 -04:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-06-17 02:14:12.312000 -04:00
+files_to_retain: 0
